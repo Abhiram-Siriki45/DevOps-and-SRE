@@ -14,8 +14,8 @@
 
 <table>
 <tr>
-  <td align="center"><a href="https://play.google.com/store/apps/details?id=com.codingshell.kubeprep"><img src="images/apps/kubeprep.png" width="200px;" height="300px;" alt="KubePrep"/><br /><b>KubePrep</b></a></td>
-  <td align="center"><a href="https://play.google.com/store/apps/details?id=com.codingshell.linuxmaster"><img src="images/apps/linux_master.png" width="200px;" height="300px;" alt="Linux Master"/><br /><b>Linux Master</b></a></td>
+  <td align="center"><a href="https://play-lh.googleusercontent.com/FdrkH5VRU3RAZqm8iPTCPrrperjWPAP1XE7XypK1dbwig4-Cc72997G1yaZC45k9qeA=w240-h480-rw"><img src="images/apps/kubeprep.png" width="200px;" height="300px;" alt="KubePrep"/><br /><b>KubePrep</b></a></td>
+  <td align="center"><a href="https://play-lh.googleusercontent.com/wV0RfL6WnA13gV7dnU--Yd5EFqCjV-wQhE2PYXHz29npTxgj9IFn0xBSBFrpBvXdgIih=w240-h480-rw"><img src="images/apps/linux_master.png" width="200px;" height="300px;" alt="Linux Master"/><br /><b>Linux Master</b></a></td>
 </tr>
 </table>
 
