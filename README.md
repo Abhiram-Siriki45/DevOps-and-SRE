@@ -1,6 +1,6 @@
 # DevOps and SRE ♾️
 
-:information_source: &nbsp;This Repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE.
+:information_source: &nbsp;This Repo contains questions and exercises on various technical topics, Sometimes related to DevOps and SRE.
 
 :bar_chart: &nbsp;There are Currently **2624** Exercises and Questions.
 
@@ -8,7 +8,7 @@
 
 :stop_sign: &nbsp;If you are interested in pursuing a career as DevOps engineer, learning some of the concepts mentioned here would be useful, but you should know it's not about learning all the topics and technologies mentioned in this repository.
 
-:pencil: &nbsp;You can add more exercises by submitting pull requests :) Read about contribution guidelines [here](CONTRIBUTING.md)
+:pencil: &nbsp;You can Add more exercises by submitting pull requests :) Read about contribution guidelines [here](CONTRIBUTING.md)
 
 ## DevOps Applications
 
