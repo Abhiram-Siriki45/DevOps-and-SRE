@@ -23,7 +23,7 @@
 ## Network
 
 <details>
-<summary>In general, what do you need in order to communicate?</summary><br><b>
+<summary>In general, What do you need in order to communicate?</summary><br><b>
 
   - A common language (for the two ends to understand)
   - A way to address who you want to communicate with
