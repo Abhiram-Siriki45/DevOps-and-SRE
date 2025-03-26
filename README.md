@@ -8,7 +8,7 @@
 
 :stop_sign: &nbsp;If you are Interested in pursuing a career as DevOps engineer, learning some of the concepts mentioned here would be useful, but you should know it's not about learning all the topics and technologies mentioned in this repository.
 
-:pencil: &nbsp;You can Add more exercises by submitting pull requests :) Read about contribution guidelines [here](CONTRIBUTING.md)
+:pencil: &nbsp;You can add more exercises by submitting pull requests :) Read about contribution guidelines [here](CONTRIBUTING.md)
 
 ## DevOps Applications
 
