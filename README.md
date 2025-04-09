@@ -1,6 +1,6 @@
 # DevOps and SRE ♾️
 
-:information_source: &nbsp;This Repo contains questions and exercises on various technical topics, Sometimes related to DevOps and SRE.
+:information_source: &nbsp;This Repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE.
 
 :bar_chart: &nbsp;There are Currently **2624** Exercises and Questions.
 
